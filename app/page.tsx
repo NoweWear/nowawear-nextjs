@@ -1,13 +1,8 @@
-export const metadata = {
-  title: "NoweWear",
-  description: "Welcome to NoweWear custom apparel store!",
-};
-
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function Home() {
   return (
-    <html lang="en">
-      <head />
-      <body>{children}</body>
-    </html>
+    <main>
+      <h1>Welcome to NoweWear!</h1>
+      <p>Your custom apparel store is ready 🚀</p>
+    </main>
   );
 }
