@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1>Welcome to NoweWear!</h1>;
+  return (
+    <main>
+      <h1>Hoş Geldiniz! 🎉</h1>
+      <p>NoweWear mağazanız yayında!</p>
+    </main>
+  );
 }
