@@ -1,1 +1,1 @@
-# nowawear-nextjs
+# nowawear-nextjs ✨
